@@ -1,4 +1,4 @@
-# marketing_campaign_dashboard
+# Marketing_campaign_dashboard
 ![Home](./marketing_campaign_dashboard.png)
 
 ## About Dataset:
